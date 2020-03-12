@@ -11,7 +11,7 @@ public class Usuario  implements java.io.Serializable {
      private Integer id;
      private String nombre;
      private String email;
-
+     //JAKIANDO LA NASA CON JAVA
     public Usuario() {
     }
 
